@@ -9,4 +9,4 @@ Wymagania:
 - Możliwość wyboru stopnia nachodzenia na siebie kolejnych odcinków czasowych
 - Możliwość zapisania wygenerowanego spektrogramu (w zestawieniu z wizualizacją samego pliku lub bez)
 
-    
+Projekt został zrealizowany przy użyciu języka programowania Python i biblioteki PyQt dla interfejsu graficznego.
